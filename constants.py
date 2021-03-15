@@ -14,7 +14,7 @@ PREDICT_FILE_ENDPOINT = '/predict_file'
 CLASS_1 = 'class 1'
 CLASS_0 = 'class 0'
 MAIN = '__main__'
-DEFAULT_PATH = 'http://localhost:5000/apidocs/'
-PORT = 5000
+DEFAULT_PATH = 'http://localhost:8080/apidocs/'
+PORT = 8080
 LOCALHOST = '0.0.0.0'
 
