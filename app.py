@@ -77,4 +77,4 @@ def decode_predicted_value(predicted_value):
 
 
 if __name__ == MAIN:
-    app.run(host=LOCALHOST, port=PORT, debug=True, use_reloader=True)
+    app.run(host=LOCALHOST, port=FLASK_APP_PORT, debug=True, use_reloader=True)
