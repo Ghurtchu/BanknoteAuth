@@ -1,3 +1,5 @@
+A symbolic Machine Learning app which helps you to determine whether the banknote is authentic or not.
+
 If you want to run it and test it you need to have Docker installed on your local machine.
 
 Here are the instructions:
